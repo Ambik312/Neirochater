@@ -8,7 +8,7 @@ import os
 TELEGRAM_BOT_TOKEN = "8160025601:AAGBv4OvrkhzsflS7HEUteySYFDyFu885kQ"
 
 # Ваш API-ключ OpenRouter
-NEURO_API_KEY = "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"
+NEURO_API_KEY = "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"
 
 # URL-адрес API (Endpoint) для OpenRouter
 API_ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
